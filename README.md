@@ -132,6 +132,6 @@ ___
 | Mohammed | mohammed@gmail.com      |
 
 <!-- Task Lists -->
-* [x] Task 1  <!-- Complated Task -->
+* [x] Task 1  <!-- Completed Task -->
 * [x] Task 2
-* [ ] Task 3   <!-- Uncomplated Task -->
+* [ ] Task 3   <!-- Uncompleted Task -->
