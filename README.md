@@ -134,4 +134,4 @@ ___
 <!-- Task Lists -->
 * [x] Task 1  <!-- Complated Task -->
 * [x] Task 2
-* [] Task 3   <!-- Uncomplated Task -->
+* [ ] Task 3   <!-- Uncomplated Task -->
