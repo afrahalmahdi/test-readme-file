@@ -41,6 +41,7 @@ Used In Many Static Site Generators
 ###### Heading 6
 
 <!-- Emphasis => Italics -->
+
 <!-- We can wrap whateve we want to italicize -->
 <!-- 
     To Escape These Characters
@@ -52,6 +53,7 @@ Used In Many Static Site Generators
 _This text_ is italic
 
 <!-- Emphasis => Strong -->
+
 <!-- We can wrap whateve we want to bold -->
 **This text** is bold  
 
@@ -62,6 +64,7 @@ __This text__ is bold
 ~~This text~~ is strikethrough   <!-- ~ -> tilde -->
 
 <!-- Horizontal Rule -->
+
 <!-- It gives us these lines so you can use these to kind of separate your content -->
 ---  
 <!-- triple underscores -->
@@ -69,6 +72,7 @@ ___
 
 
 <!-- Blockquotes -->
+
 <!-- 
     We use greater than
     It just gives us like background and gives this blue line on the side here this border
@@ -76,6 +80,7 @@ ___
 > This is a quote
 
 <!-- Links -->
+
 <!--
     Brackets to write the Text
     Parenthesis for the link
@@ -101,6 +106,7 @@ ___
     1. Item 2
 
 <!-- Inline Code Block -->
+
 <!-- Use one of these backticks for instance -->
 `<p>This is a paragraph</p>`
 
